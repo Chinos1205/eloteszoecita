@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+
+body{
+    background: #FA9D9D; 
+}
+
+.contenedor{
+    background: #D8483D;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+    font-style: oblique;
+}
+
+.imagen{
+    width: 50%;
+    height: 50%;
+    
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+    background: #39A693;
+    font-style: oblique;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
