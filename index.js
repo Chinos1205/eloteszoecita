@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Qué yo vaya por un elote con Zoe???????? Obvio q sí, por cierto, SI ES PARA TI LA PREGUNTA ZOE FLORES PQ LUEGO DICES Q ES PARA OTRA ZOE')
+    alert('Qué yo vaya por un elote con Zoe???????? Obvio q sí, por cierto, SI ES PARA TI LA PREGUNTA ZOE QUE LE DICEN "FLOR" PQ LUEGO DICES Q ES PARA OTRA ZOE')
 })
 
 const noBtn = document.querySelector('#noBtn');
